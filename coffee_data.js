@@ -44,7 +44,7 @@ const coffeeMenu = [
         seasonal: false,
     },
     {
-        name: frappe,
+        name: "frappe",
         price: 8,
         seasonal: false,
     },
